@@ -14,6 +14,7 @@
 
 >**Due to overuse of script, some parts have been taken off.>
 
+
 - The application requires active internet connection
 - You would not be charged for any servive request dispatched as a consequence of this script
 - For best performance, use small website with considerable http
@@ -84,8 +85,6 @@ cd dos
 python2 dos.py http://(Target IP)
 ```
 
-
-
 ## Contributors
 
 - **[Whitedevil_](https://github.com/Whitedevil00117)**<br>
@@ -105,7 +104,6 @@ python2 dos.py http://(Target IP)
 
 * **[@] empty (-mail.com)**
 * **[@] empty**
-
 
 ## TODO:
 
